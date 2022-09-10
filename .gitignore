@@ -4,3 +4,5 @@ node_modules/
 public/
 *.pem
 *.crt
+.vscode/
+package-lock.json
